@@ -10,7 +10,7 @@
 [![made-with-go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](https://go.dev/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![https://img.shields.io/badge/Version-1.0-red.svg](https://img.shields.io/badge/Version-1.0-red.svg)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 
 
 یک ابزار مانیتورینگ فرآیندهای سیستم مبتنی بر ترمینال (TUI) که با زبان **Go** نوشته شده است. این برنامه با تمرکز بر کارایی، تحلیل امنیتی و ارائه یک تجربه کاربری مدرن و چشم‌نواز طراحی شده است. 
